@@ -10,7 +10,7 @@ const ResumeCard = ({ resume: { id, companyName, jobTitle, feedback } }: { resum
                 <h2 className="!text-bl ack font-bold break-words">{companyName}</h2>
                 <h3 className="text-lg break-words text-gray-500">{jobTitle}</h3>
             </div>
-            <div className="flex-shrink-10">
+            <div className="flex-shrink-0">
 
             </div>
         </Link>
