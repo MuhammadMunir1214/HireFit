@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ai-resume-analyser.iml" filepath="$PROJECT_DIR$/.idea/ai-resume-analyser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HireFit.iml" filepath="$PROJECT_DIR$/.idea/HireFit.iml" />
     </modules>
   </component>
 </project>
