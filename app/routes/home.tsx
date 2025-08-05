@@ -16,7 +16,7 @@ export default function Home() {
         <Navbar />
 
         <section className="main-section">
-          <div className="page-heading py-17">
+          <div className="page-heading py-16">
             <h1>Application Analytics That Work for You</h1>
             <h2>Track applications, get feedback, and apply with confidence.</h2>
           </div>
