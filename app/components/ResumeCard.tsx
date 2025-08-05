@@ -8,7 +8,7 @@ const ResumeCard = ({ resume: { id, companyName, jobTitle, feedback } }: { resum
         <Link to={`/resume/${id}`} className="resume-card animate-in fade-in duration-1000" >
             <div className="flex flex-col gap-2">
                 <h2 className="!text-bl ack font-bold break-words">{companyName}</h2>
-                <h3 className="text-lg break-words text-gray-">{jobTitle}</h3>
+                <h3 className="text-lg break-words text-gray">{jobTitle}</h3>
             </div>
             <div className="flex-shrink-0">
 
