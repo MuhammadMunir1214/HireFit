@@ -16,11 +16,11 @@ export default function Home() {
         <Navbar />
 
         <section className="main-section">
-          <div className="page-heading">
+          <div className="page-heading py-16">
             <h1>Application Analytics That Work for You</h1>
             <h2>Track applications, get feedback, and apply with confidence.</h2>
           </div>
-        </section>
+
 
         {resumes.length > 0 && (
           <div className="resumes-section">
@@ -29,6 +29,7 @@ export default function Home() {
             ))}
           </div>
         )}
+        </section>
       </main>
   );
 }
